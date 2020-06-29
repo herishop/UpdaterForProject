@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-
+/data/Map005.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map005.json
 <End of Version>
