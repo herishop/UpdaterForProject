@@ -1,9 +1,3 @@
 
 <Version: 1.05>
-/data/Map001.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map002.json
-/data/Map003.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map003.json
-/data/Map004.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map004.json
-/data/Map005.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map005.json
-/data/Map007.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map007.json
 <End of Version>
