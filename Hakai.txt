@@ -5,5 +5,6 @@
 /data/Map012.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map012.json
 /data/Map013.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map013.json
 /data/Map014.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map014.json
-/data/
+/data/img/faces/suri.png
+/data/img/pictures/suri_1.png 
 <End of Version>
