@@ -1,5 +1,5 @@
 
-<Version: 1.06>
+<Version: 1.07>
 /data/Map003.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map003.json
 /data/Map011.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map011.json
 /data/Map012.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map012.json
