@@ -7,4 +7,20 @@
 /data/Map014.json https://raw.githubusercontent.com/herishop/UpdaterForProject/master/Map014.json
 /img/pictures/suri_1.png https://i.imgur.com/KpCoZtt.png
 /img/faces/suri.png https://i.imgur.com/PKWqb6N.png
+/img/faces/suri2.png https://i.imgur.com/W4Ay4j6.png
+/img/faces/suri3.png https://i.imgur.com/tqo64aI.png
+/img/faces/suri4.png https://i.imgur.com/kYteQBz.png
+/img/faces/suri5.png https://i.imgur.com/l73MCUZ.png
+/img/faces/suri6.png https://i.imgur.com/3F2aaqv.png
+/img/faces/suri7.png https://i.imgur.com/dpZZIOh.png
+/img/faces/suri8.png https://i.imgur.com/b8vBucF.png
+
+/img/pictures/suri2_1.png https://i.imgur.com/3rSBj5G.png
+/img/pictures/suri3_1.png https://i.imgur.com/RsOUkHx.png
+/img/pictures/suri4_1.png https://i.imgur.com/yvEpEV9.png
+/img/pictures/suri5_1.png https://i.imgur.com/UkwdK32.png
+/img/pictures/suri6_1.png https://i.imgur.com/xdqN3Wv.png
+/img/pictures/suri7_1.png https://i.imgur.com/Cg0LOgA.png
+/img/pictures/suri8_1.png https://i.imgur.com/oAXwScu.png
+
 <End of Version>
